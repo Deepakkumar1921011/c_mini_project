@@ -1,2 +1,3 @@
 # c_mini_project
-Student Record Management System
+Student Record Management System:
+The Student Record Management System is a console-based application developed in C language to manage student information efficiently. The project uses modular programming by dividing functionalities into multiple source files such as adding, displaying, modifying, deleting, and saving student records. It provides a user-friendly menu-driven interface that allows users to perform various operations on student data. File handling is used to store and retrieve records permanently, ensuring data is not lost after program execution. This project helps in understanding C programming concepts such as structures, functions, file operations, and multi-file programming.
